@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center" style="color:#9370DB;">Hi, I'm Melissa 👋</h1>
+<h1 align="center" style="color:#9370DB;">Hi, I'm Melissa </h1>
 <p align="center" style="color:#8A2BE2;">CS Master's student | Software Engineering | Mobile & Game Dev</p>
 
 ---
