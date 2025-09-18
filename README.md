@@ -1,5 +1,5 @@
 
-# Hi, I'm Melissa Boulsa
+# Hi, I'm MelBouls
 
 I am a Computer Science student practicing fundamental development skills and experimenting with different technologies. My work here focuses on small applications where I try to explore different themes and ideas. I enjoy adding a personal touch to each project as a way to learn and have fun while building.
 
