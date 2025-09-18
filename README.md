@@ -29,10 +29,11 @@
 
 ## Google Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/Build%20Apps%20with%20Flutter-9B59B6?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Women%20Techmakers-9B59B6?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build%20Apps%20with%20Flutter-8E44AD?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Introduction%20to%20SQL-6C3483?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Apps%20with%20Firebase-8E44AD?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Get%20data%20from%20the%20internet-7D3C98?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Apps%20with%20Firebase-7D3C98?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Get%20data%20from%20the%20internet-5B2C6F?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
 ---
