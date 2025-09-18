@@ -44,3 +44,6 @@
   <a href="https://linkedin.com/in/tonprofil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tonmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=18vZrcjQleX9pPixcTQs_tB2VcG19A0mO" alt="Banner" />
+</p>
