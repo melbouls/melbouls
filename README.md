@@ -4,7 +4,7 @@
 
 ---
 
-## 🌸 About me
+##  About me
 - CS Master's student  
 - Interested in software engineering, mobile applications, and front-end development  
 - Exploring game development with Unity and interactive applications  
@@ -20,14 +20,14 @@
 
 ---
 
-## 🎯 Goals
+##  Goals
 - Strengthen my foundations in Java, Android, and front-end technologies  
 - Explore game development and mobile application design  
 - Keep experimenting with different styles and themes to add creativity to my projects  
 
 ---
 
-## 📚 Google Badges
+## Google Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Build%20Apps%20with%20Flutter-9B59B6?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Introduction%20to%20SQL-6C3483?style=for-the-badge&logo=postgresql&logoColor=white" />
